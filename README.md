@@ -6,8 +6,6 @@ Instead of just memorizing biology, I am learning how to code it.
 
 Teaching myself python to connect biology with computer science.
 
- as a biology student,I am building my technical skills as well
-
  ---
 
 ## 🛠️ Tools I Actually Use
