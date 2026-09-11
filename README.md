@@ -1,8 +1,5 @@
 # Salaam, I'm Zainab!👋
-
-I am a Pre-Medical student from Gujrat, Pakistan, building my way into the world of bioinformatics.
-
-Instead of just memorizing biology, I am learning how to code it.
+ Pre-Medical student from Gujrat, Pakistan, building my way into the world of bioinformatics.
 
 Teaching myself python to connect biology with computer science.
 
