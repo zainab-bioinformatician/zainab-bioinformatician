@@ -1,6 +1,5 @@
 # Salaam, I'm Zainab!👋
  Pre-Medical student from Gujrat, Pakistan, building my way into the world of bioinformatics.
-
 Teaching myself python to connect biology with computer science.
 
  ---
