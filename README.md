@@ -27,5 +27,5 @@ Teaching myself python to connect biology with computer science.
 
 * ## 🎯 My Career Roadmap
  📍 **From:** Gujrat, Pakistan
-* 🚀 **Target:** To secure a fully-funded international Scholarship for a Bioinformatics degree.
+* 🚀 **Target:** To polish my abilities and solve the problems of my country as well as on global level
 
